@@ -7,3 +7,4 @@ Due to the difficulty of that, finally it consisted of shapes detection, making
 Done with Python (mainly using the library OpenCV).
 
 The main code is in the repository, as well as the final memory where there is a full explanation of the code and some examples of how it works.
+ 
